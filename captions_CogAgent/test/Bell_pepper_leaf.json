@@ -1,0 +1,34 @@
+{
+    "Bell_pepper_leaf_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The veins are visible and are of a lighter green color. The petiole appears to be thin and green.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00003.jpg": {
+        "text": "The leaf is predominantly green with a yellowish tint towards the base. There are some dark spots or discolorations on the leaf, particularly towards the center and edges. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00006.jpg": {
+        "text": "The leaf is green with a base color that transitions to a darker shade towards the edges. There are several spots or discolored areas on the leaf, primarily towards the center and edges. The leaf has a somewhat oval shape with serrated edges. The texture appears smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00002.jpg": {
+        "text": "The leaf is predominantly green with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00004.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00008.jpg": {
+        "text": "The leaf is predominantly green with a slightly yellowish tint at the base. It has a smooth texture with a few small spots or discolorations scattered across its surface. The leaf is heart-shaped with serrated edges. There are no visible damages, and the veins are thin and light-colored.",
+        "label": 3
+    },
+    "Bell_pepper_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole is thin and green, matching the leaf's color.",
+        "label": 3
+    }
+}

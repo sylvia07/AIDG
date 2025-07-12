@@ -1,0 +1,10 @@
+{
+    "Tomato_two_spotted_spider_mites_leaf_00001.jpg": {
+        "text": "The plant leaf in the image has a green base color with some spots and discolored areas. The spots are irregular in shape and vary in size, with some being larger and more prominent than others. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough. There are no visible damages like holes, tears, or wilting. The veins are visible and are of a lighter green color. The petiole is thin and green.",
+        "label": 27
+    },
+    "Tomato_two_spotted_spider_mites_leaf_00002.jpg": {
+        "text": "The leaf in the image is green with a few spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly serrated. There are no visible damages on the leaf, and the veins are thin and green. The petiole is thin and green.",
+        "label": 27
+    }
+}

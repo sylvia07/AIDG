@@ -1,0 +1,34 @@
+{
+    "Potato_leaf_late_blight_00002.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There is a noticeable brownish spot or lesion on the upper left side of the leaf, which is roughly circular in shape and has a lighter color compared to the surrounding leaf tissue. The leaf has a serrated edge, and the petiole appears to be thin and green.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00001.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. It has several brown spots or lesions, with some being larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00008.jpg": {
+        "text": "The leaf is green with a few brown spots. The leaf has a somewhat oval shape with serrated edges. The veins are visible, running from the base to the tip of the leaf. There are no visible damages, holes, or tears on the leaf. The petiole appears to be thin and green.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00006.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy margin. There are no visible damages on the leaf, and the veins are not distinctly visible. The petiole appears to be thin and green.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00004.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a serrated edge. The petiole is thin and green.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00003.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There is a dark, irregularly shaped spot on the leaf, which appears to be a lesion or damage. The petiole is thin and green.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 14
+    },
+    "Potato_leaf_late_blight_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and the veins are thin and light-colored.",
+        "label": 14
+    }
+}

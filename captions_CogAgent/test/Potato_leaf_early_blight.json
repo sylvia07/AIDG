@@ -1,0 +1,34 @@
+{
+    "Potato_leaf_early_blight_00006.jpg": {
+        "text": "The leaf is green with a slightly serrated edge. It has a few spots or discolored areas, one of which is larger and reddish-brown. The leaf has a smooth texture, and the petiole is thin and green.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00007.jpg": {
+        "text": "The leaf is green with a few brown spots and lesions. The leaf has a somewhat oval shape with serrated edges. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00001.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has a few spots or discolored areas, primarily on the lower part of the leaf. The edges of the leaf are smooth, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00002.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has a few spots or discolored areas, primarily on the edges and the lower part of the leaf. The petiole is thin and green.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00005.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There is a noticeable dark spot or lesion on the upper left side of the leaf, which is roughly circular in shape and has a lighter center. The leaf also has a serrated edge.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00003.jpg": {
+        "text": "The leaf is green with a slightly yellowish tint near the base. There are several brown spots or lesions on the leaf, with varying sizes and shapes. The leaf has a somewhat oval shape, and the edges appear to be smooth. There are no visible damages like holes or tears. The veins are not distinctly visible, but the leaf appears to have a smooth texture.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00008.jpg": {
+        "text": "The leaf is green with a prominent brownish spot in the center. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 13
+    },
+    "Potato_leaf_early_blight_00004.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 13
+    }
+}

@@ -1,0 +1,42 @@
+{
+    "Apple_Scab_Leaf_00010.jpg": {
+        "text": "The leaf is green with a slightly veined texture. There are several spots or discolored areas on the leaf, with varying sizes and colors. The edges of the leaf appear to be smooth. There are no visible damages, holes, or tears on the leaf. The petiole is thin and green.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00006.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. It has a few spots or discolored areas, primarily on the upper side. The edges of the leaf are serrated. The petiole is thin and green.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00008.jpg": {
+        "text": "The leaf is green with a slightly serrated edge. It has several brown spots or lesions scattered across its surface. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00004.jpg": {
+        "text": "The leaf is green with a few brown spots and discolored areas. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00009.jpg": {
+        "text": "The leaf is green with some brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible damages or lesions. The petiole is thin and green.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00003.jpg": {
+        "text": "The leaf is green with a few brown spots and discolorations. It has a somewhat oval shape with serrated edges. The petiole is thin and appears to be white or light-colored.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00005.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. It has multiple spots, some of which are larger and more prominent, while others are smaller and more scattered. The spots are brown with a darker center. The leaf has a somewhat oval shape with serrated edges. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are several brown spots or lesions scattered across the leaf, with some being larger and more prominent than others. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00002.jpg": {
+        "text": "The leaf is predominantly green with spots of brown and red. The spots are irregularly shaped and are scattered across the leaf. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and appears to be of a similar color to the leaf.",
+        "label": 2
+    },
+    "Apple_Scab_Leaf_00007.jpg": {
+        "text": "The leaf is green with a few brown spots and discolorations. It has a somewhat oval shape with serrated edges. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 2
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Tomato_Early_blight_leaf_00009.jpg": {
+        "text": "The leaf is green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00006.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible damages like holes or tears. The petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00008.jpg": {
+        "text": "The leaf is green with a yellowish spot near its base. The leaf has a somewhat wavy texture and is oval in shape. There are no visible damages, and the petiole appears to be thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00003.jpg": {
+        "text": "The leaf is green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00007.jpg": {
+        "text": "The leaf is predominantly green with yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible damages or lesions. The petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00001.jpg": {
+        "text": "The leaf appears to be a tomato leaf. It has a green base color with early blight spots that are yellowish-brown in color. The spots are irregular in shape and are scattered across the leaf. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00004.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture with a slightly serrated edge. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00005.jpg": {
+        "text": "The plant leaf is green with yellow spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the petiole is thin and green.",
+        "label": 19
+    },
+    "Tomato_Early_blight_leaf_00002.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 19
+    }
+}

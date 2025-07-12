@@ -1,0 +1,26 @@
+{
+    "Tomato_leaf_yellow_virus_00005.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped shape with a prominent central vein. There are no visible damages on the leaf, and the petiole appears to be thin and green.",
+        "label": 24
+    },
+    "Tomato_leaf_yellow_virus_00004.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible damages or lesions. The petiole is thin and green.",
+        "label": 24
+    },
+    "Tomato_leaf_yellow_virus_00001.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots or discolorations. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly wavy. There are no visible damages on the leaf, and the petiole is thin and green.",
+        "label": 24
+    },
+    "Tomato_leaf_yellow_virus_00002.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and is slightly wavy towards the edges. There are no visible damages on the leaf, and it has a few small spots or discolorations. The petiole is thin and green.",
+        "label": 24
+    },
+    "Tomato_leaf_yellow_virus_00003.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible damages or lesions. The petiole is thin and green.",
+        "label": 24
+    },
+    "Tomato_leaf_yellow_virus_00006.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped shape with a prominent central vein. There are no visible damages, and the edges appear smooth. The petiole is thin and green in color.",
+        "label": 24
+    }
+}

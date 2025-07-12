@@ -1,0 +1,222 @@
+{
+    "Tomato_leaf_00006.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy towards the edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00055.jpg": {
+        "text": "The plant leaf is green with a smooth texture. It has a heart-shaped base and is attached to the stem with a thin petiole. The leaf has a few small spots or discolorations, and the edges appear to be smooth.",
+        "label": 20
+    },
+    "Tomato_leaf_00018.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00049.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The veins are visible and are of a lighter green color. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00027.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy. The edges of the leaf are smooth, and there are no visible damages or spots. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00047.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The leaf has multiple veins, and there are no visible damages or spots on it. The petiole is thin and green in color.",
+        "label": 20
+    },
+    "Tomato_leaf_00053.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf, and it has a prominent vein running down its center. The petiole is thin and green in color.",
+        "label": 20
+    },
+    "Tomato_leaf_00017.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The veins are visible and are of a lighter color, possibly white or light green.",
+        "label": 20
+    },
+    "Tomato_leaf_00042.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. There are no visible damages on the leaf, and it has a prominent vein running through it. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00022.jpg": {
+        "text": "The plant leaf is green with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The leaf has a few small spots or discolorations, primarily on the upper left side. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00052.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. The leaf has a few visible veins, and there are no visible damages or spots on it. The petiole is thin and green in color.",
+        "label": 20
+    },
+    "Tomato_leaf_00021.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The leaf has a few visible veins, and there are no visible damages or spots on it.",
+        "label": 20
+    },
+    "Tomato_leaf_00032.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00024.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 20
+    },
+    "Tomato_leaf_00025.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The veins are visible and are of a lighter shade compared to the leaf blade. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00038.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The petiole is thin and green. There are no visible damages on the leaf, and it has a few small spots or discolorations.",
+        "label": 20
+    },
+    "Tomato_leaf_00046.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip. The petiole is thin and green in color.",
+        "label": 20
+    },
+    "Tomato_leaf_00028.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00030.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The veins are visible and are of a lighter green color. The petiole is thin and green, and it appears to be attached to the stem.",
+        "label": 20
+    },
+    "Tomato_leaf_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a pointed tip. The leaf has a few small spots or discolorations, primarily on the lower part. The edges of the leaf are serrated. There are no visible damages on the leaf, and the veins are of a lighter shade, possibly white or light green.",
+        "label": 20
+    },
+    "Tomato_leaf_00034.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a serrated edge and a prominent vein running down its center. There are no visible damages, holes, or tears on the leaf. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00040.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. The petiole is thin and green. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 20
+    },
+    "Tomato_leaf_00029.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 20
+    },
+    "Tomato_leaf_00019.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and size, with some appearing larger and more concentrated in certain areas. The leaf has a somewhat oval shape with serrated edges. The texture of the leaf appears smooth, and there are no visible damages or lesions. The petiole is thin and green, and it attaches to the leaf blade at a slight angle.",
+        "label": 20
+    },
+    "Tomato_leaf_00026.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The veins are visible and are of a lighter shade compared to the leaf blade.",
+        "label": 20
+    },
+    "Tomato_leaf_00020.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. The leaf has a few small spots or discolorations, primarily on the upper left side. The petiole is thin and green, and it appears to be attached to the stem at a slight angle.",
+        "label": 20
+    },
+    "Tomato_leaf_00010.jpg": {
+        "text": "The plant leaf is green with a smooth texture. It has a heart-shaped base and is slightly wavy. The edges of the leaf are smooth, and there are no visible damages or spots. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00003.jpg": {
+        "text": "The plant leaf is green with a smooth texture. It has a heart-shaped base and a slightly wavy edge. The leaf has a few visible veins, and there are no visible damages or spots on it.",
+        "label": 20
+    },
+    "Tomato_leaf_00011.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00005.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. The leaf has a few small spots or discolorations, and there are visible veins running through it.",
+        "label": 20
+    },
+    "Tomato_leaf_00050.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The petiole is thin and green. There are no visible damages on the leaf, and it has a few small spots or discolorations.",
+        "label": 20
+    },
+    "Tomato_leaf_00033.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00039.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and is slightly curled at the edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf.",
+        "label": 20
+    },
+    "Tomato_leaf_00008.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00014.jpg": {
+        "text": "The image showcases a green leaf with a smooth texture. The leaf has a heart-shaped base and a serrated edge. There are no visible damages, and the veins are thin and light-colored. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00035.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy towards the edges. The leaf has a few small spots or discolorations, primarily on the upper left side. The petiole is thin and green, and it attaches to the stem at a slight angle.",
+        "label": 20
+    },
+    "Tomato_leaf_00051.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf, and it has a prominent vein running down its center.",
+        "label": 20
+    },
+    "Tomato_leaf_00036.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy towards the edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00048.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 20
+    },
+    "Tomato_leaf_00004.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has a serrated edge and a prominent vein running from the base to the tip. There are no visible damages, and the petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00044.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy. The leaf has a few small spots or discolorations, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00043.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The petiole is thin and green. There are no visible damages on the leaf, and it has a few veins running through it.",
+        "label": 20
+    },
+    "Tomato_leaf_00023.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The leaf has a few small spots or discolorations, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00037.jpg": {
+        "text": "The plant leaf is green with a smooth texture. It has a heart-shaped base and is slightly wavy towards the edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf.",
+        "label": 20
+    },
+    "Tomato_leaf_00054.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 20
+    },
+    "Tomato_leaf_00041.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The leaf has a few visible veins, and there are no visible damages or spots on it.",
+        "label": 20
+    },
+    "Tomato_leaf_00013.jpg": {
+        "text": "The plant leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The leaf has a few small spots or discolorations, primarily on the upper left side. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00009.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 20
+    },
+    "Tomato_leaf_00012.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 20
+    },
+    "Tomato_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy. There are no visible damages on the leaf, and the veins are thin and light-colored. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00031.jpg": {
+        "text": "The leaf is predominantly green with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 20
+    },
+    "Tomato_leaf_00015.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00016.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages, and the veins are thin and green. The petiole appears to be thin and green.",
+        "label": 20
+    },
+    "Tomato_leaf_00002.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped shape with a prominent vein running from the base to the tip. There are no visible damages on the leaf, and it appears healthy.",
+        "label": 20
+    },
+    "Tomato_leaf_00045.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. The petiole is thin and green. There are no visible damages on the leaf, and it has a prominent vein running down its center.",
+        "label": 20
+    }
+}

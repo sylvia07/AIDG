@@ -1,0 +1,718 @@
+{
+    "Corn_leaf_blight_00042.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions scattered across the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, with a slightly veined texture.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00032.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brownish spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00154.jpg": {
+        "text": "The leaf is predominantly green with some brownish spots and streaks. The base color of the leaf is green, and the spots are scattered across the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. There are no visible damages on the leaf, and the veins are thin and green. The petiole is thin and green, matching the color of the leaf.",
+        "label": 8
+    },
+    "corn-stalk-rot-leaf-symptoms-F1.jpg.jpeg": {
+        "text": "The leaf is primarily green with some brown spots and discolorations. The base color of the leaf is green, and there are brown spots that are irregular in shape and size. The leaf has a somewhat wavy texture. The edges of the leaf are serrated. There are no visible damages on the leaf, and the veins are not distinctly visible. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00015.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, primarily towards the middle and upper portions. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green, and it appears to be attached to the stem.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00025.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several brown spots or lesions on the leaf, particularly on the upper part. The leaf has a somewhat elongated shape with serrated edges. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00131.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple brownish spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges are serrated. The petiole is thin and green, and it appears to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00043.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brown spots or lesions scattered across the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth. The petiole is not clearly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00140.jpg": {
+        "text": "The leaf is green with a wavy or undulating edge. There are several brownish spots or lesions on the leaf, particularly towards the middle and edges. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00092.jpg": {
+        "text": "The leaf is green with a yellowish-brown discoloration on its edges. The leaf has a smooth texture, and there are no visible damages or lesions. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00165.jpg": {
+        "text": "The leaf appears to be green with some brownish spots or discolorations. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole is thin and appears to be green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00007.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible damages or tears. The veins are not distinctly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00078.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brownish spots or lesions on the leaf, with some of them being larger and more prominent than others. The edges of the leaf appear to be smooth. The petiole is not clearly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00066.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running through it. There are no visible damages, and the edges appear smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00034.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brown spots or lesions on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth. The petiole is not clearly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00093.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are brownish spots or discolorations on the leaf, particularly towards the middle and edges. The leaf has a somewhat elongated shape, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00068.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brownish spots or lesions on the leaf, with some of them being larger and more prominent than others. The leaf has a somewhat oval shape, and the edges appear to be smooth. There are no visible damages like holes or tears on the leaf. The veins are not distinctly visible, but the leaf seems to have a central vein running from the base to the tip.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00047.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, primarily towards the center and edges. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00021.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple brownish spots and streaks on the leaf, especially towards the edges. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00070.jpg": {
+        "text": "The leaf appears to be a corn leaf, characterized by its broad shape and serrated edges. The base color is green, but there are areas of yellow and brown, indicating signs of damage or disease. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00135.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has several brown spots scattered across its surface, with some spots being larger and more pronounced than others. The leaf has a heart-shaped base and a serrated edge. There are no visible damages like holes, tears, or wilting. The veins are visible and are of a lighter color, possibly white or light green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00046.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, particularly on the upper and lower portions. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00022.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots and streaks. The spots are irregular in shape and vary in size, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. There are no visible damages, and the veins are thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00082.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple spots or discolored areas on the leaf, which are brownish in color. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00126.jpg": {
+        "text": "The leaf is green with a few yellow spots scattered across it. The leaf has a somewhat elongated shape, and the edges appear to be smooth. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00079.jpg": {
+        "text": "The leaf is green with a prominent brownish-red lesion or spot located towards the center. The leaf has a smooth texture, and the edges appear to be slightly serrated. There are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00175.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brown spots or lesions on the leaf, particularly towards the middle and lower portions. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it is attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00026.jpg": {
+        "text": "The leaf appears to be a green, broad leaf with a somewhat wavy texture. There are some spots or discolored areas on the leaf, particularly towards the base. The edges of the leaf are serrated. There are no visible damages, and the veins are prominent, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00048.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. There are two visible damages on the leaf: one is a small, irregularly shaped spot near the base, and the other is a larger, more elongated spot towards the middle of the leaf. The veins are visible and are of a lighter green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00099.jpg": {
+        "text": "The leaf is green with yellowish-brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00008.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, with some being larger and more pronounced than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and there are no visible veins on the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00104.jpg": {
+        "text": "The leaf appears to be green with some brown spots and discolorations. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00102.jpg": {
+        "text": "The leaf is green with yellowish spots scattered across its surface. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00087.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, with some of them being larger and more prominent than others. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00163.jpg": {
+        "text": "The leaf is green in color with a prominent yellowish-brown spot located towards the center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00059.jpg": {
+        "text": "The leaf is green in color with a somewhat elongated shape. There are visible spots or discolorations on the leaf, particularly towards the center and edges. The edges of the leaf appear to be smooth. The veins are not distinctly visible, but the leaf seems to have a smooth texture.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00098.jpg": {
+        "text": "The leaf is green with a base color. There are yellowish spots or discolorations scattered across the leaf, with some appearing larger and more concentrated. The leaf has a somewhat wavy texture, and there are no visible damages like holes or tears. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00013.jpg": {
+        "text": "The leaf is green with a prominent vein running down its center. There are some brownish spots or discolorations on the leaf, particularly towards the base and edges. The leaf appears to be heart-shaped. The texture of the leaf seems smooth, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00083.jpg": {
+        "text": "The leaf is green with a prominent brownish-black spot in the center. The leaf has a smooth texture, and the edges appear to be slightly serrated. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00094.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several yellowish spots or discolorations on the leaf, particularly towards the edges. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00141.jpg": {
+        "text": "The leaf is predominantly green with some white spots and streaks. The spots are irregular in shape and vary in size, with some being larger and more concentrated, while others are smaller and more scattered. The leaf has a somewhat wavy texture, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00144.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple spots or discolored areas on the leaf, which are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00123.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple yellowish-brown spots or lesions scattered across the leaf, especially towards the edges. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00012.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, with varying sizes and colors. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00080.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00052.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several yellowish spots scattered across the leaf, with some appearing larger and more concentrated than others. The edges of the leaf are smooth, and there are no visible damages or tears. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00017.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several spots or discolored areas on the leaf, primarily on the upper and lower portions. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00155.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, primarily towards the base. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green, and its texture appears smooth.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00004.jpg": {
+        "text": "The leaf is green with a few brown spots and lesions. The leaf has a somewhat wavy texture and is oval in shape. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00162.jpg": {
+        "text": "The leaf is green with a few brown spots and discolorations. The base color of the leaf is green, and the spots are irregular in shape and size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00116.jpg": {
+        "text": "The leaf is green with a prominent brownish-black spot located towards the center. The leaf has a smooth texture, and the edges appear to be slightly serrated. There are no visible damages, and the veins are thin and light-colored.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00107.jpg": {
+        "text": "The leaf is green with a yellowish-brown discoloration, especially on the edges and the lower part of the leaf. The leaf has a somewhat oval shape with serrated edges. The texture appears smooth, and there are no visible damages or lesions on the leaf. The petiole is green and appears to be of medium thickness.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00125.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a central vein running from the base to the tip. There are no visible damages, holes, or tears on the leaf. The edges of the leaf appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00151.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running from the base to the tip. There are several brown spots or lesions on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00063.jpg": {
+        "text": "The leaf is green with a visible brownish discoloration or lesion on its upper side. The leaf has a smooth texture, and the edges appear to be smooth. There are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00156.jpg": {
+        "text": "The leaf is predominantly green with some areas showing yellowish-brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00081.jpg": {
+        "text": "The leaf is green with a prominent brownish-red streak running vertically down its center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are of a lighter green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00071.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, particularly towards the middle and edges. The leaf has a somewhat wavy texture, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00133.jpg": {
+        "text": "The leaf is green with a base color. There are white spots or discolorations on the leaf, particularly on the edges and the midrib. The leaf has a somewhat oval shape with serrated edges. The texture appears smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00117.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and a pointed tip. The leaf has several spots, with some being larger and more pronounced than others. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00065.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are brownish spots or lesions scattered across the leaf, especially towards the edges. The leaf has a somewhat wavy texture, and the veins are visible, running from the base to the tip. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00095.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several yellowish-brown spots or discolorations on the leaf, particularly towards the edges. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00129.jpg": {
+        "text": "The leaf is green with a yellowish-brown edge. It has a somewhat wavy texture. There are visible spots on the leaf, particularly towards the base, which are brownish in color. The leaf has a serrated edge. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00085.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots on the leaf, primarily located towards the middle and lower portions. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00058.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and a somewhat elongated shape. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00061.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has several brown spots scattered across its surface, with some spots being larger and more pronounced than others. The leaf has a heart-shaped base and appears to be slightly wavy. There are no visible damages like holes, tears, or wilting. The veins are visible and are of a lighter color compared to the leaf blade.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00086.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several yellowish spots or lesions on the leaf, with some of them being larger and more prominent than others. The edges of the leaf appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00130.jpg": {
+        "text": "The leaf is green in color with a somewhat elongated shape. There are visible spots or discolored areas on the leaf, particularly towards the base. The edges of the leaf appear to be smooth. The veins are visible and are of a lighter color compared to the rest of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00114.jpg": {
+        "text": "The leaf is green in color with a base that appears slightly yellowish. There are several brown spots or lesions on the leaf, with some being larger and more prominent than others. The leaf has a somewhat elongated shape, and the edges appear to be smooth. There are no visible damages like holes or tears on the leaf. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00149.jpg": {
+        "text": "The leaf is predominantly green with some brownish spots and streaks. The base color of the leaf is green, and the spots are irregularly shaped, varying in size and color. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00127.jpg": {
+        "text": "The leaf is predominantly green with yellowish spots scattered across its surface. The spots are irregular in shape and vary in size. The leaf has a wavy texture, and the edges appear to be smooth. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00076.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several yellowish-brown spots or lesions on the leaf, particularly on the upper and lower portions. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it is attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00016.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brownish spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00167.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running from the base to the tip. There are several brown spots or lesions on the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible damages or tears. The petiole is thin and green, matching the color of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00039.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are multiple spots or discolored areas on the leaf, which are yellowish-brown in color. The leaf has a somewhat ovate shape with serrated edges. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00050.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running from the base to the tip. There are no visible damages on the leaf, and the edges appear smooth. The petiole is thin and green, matching the leaf's color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00097.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are visible spots or discolored areas on the leaf, particularly towards the center and edges. The leaf has a somewhat oval shape with serrated edges. There are no visible damages like holes, tears, or wilting. The veins are visible and appear to be of a lighter color, possibly white or light green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00112.jpg": {
+        "text": "The leaf is predominantly green with yellow spots scattered across its surface. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are thin and light-colored.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00105.jpg": {
+        "text": "The leaf is green with a base color. There are multiple yellowish spots scattered across the leaf, with some larger and more concentrated in certain areas. The leaf has a somewhat oval shape with serrated edges. There are no visible damages, and the veins are of a lighter green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00108.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brown spots or lesions on the leaf, with some being larger and more prominent than others. The leaf has a heart-shaped base and a central vein running down its center. The edges of the leaf appear to be smooth.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00067.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00100.jpg": {
+        "text": "The leaf is green with a smooth texture. There are yellowish spots or discolorations on the leaf, particularly along the edges and midrib. The leaf has a heart-shaped base and a serrated edge. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00011.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has multiple spots, some of which are larger and more prominent, while others are smaller and more scattered. The spots are brown with a slightly darker center. The leaf has a serrated edge, and there are no visible damages like holes or tears. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00064.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are brown spots or discolorations on the leaf, particularly towards the edges and the base. The leaf has a somewhat elongated shape with serrated edges. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00006.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brown spots scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00124.jpg": {
+        "text": "The leaf is green with a prominent, elongated, and somewhat irregular shape. There is a noticeable brownish spot or lesion on the upper part of the leaf, which is roughly oval in shape and has a lighter color compared to the surrounding green. The edges of the leaf appear smooth, and there are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00033.jpg": {
+        "text": "The leaf is green with a prominent brownish spot located towards the center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00160.jpg": {
+        "text": "The leaf is green in color with a prominent yellowish-brown spot located towards the center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00178.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several brownish spots and lesions scattered across the leaf, especially towards the edges. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00037.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are two visible spots on the leaf, one larger and more prominent on the upper left side and a smaller one on the upper right side. The edges of the leaf appear to be smooth. The petiole is not clearly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00113.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several yellowish spots scattered across the leaf, with some appearing larger and more pronounced than others. The edges of the leaf are smooth, and there are no visible damages or tears. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00177.jpg": {
+        "text": "The leaf is green with a smooth texture. It has several brown spots or lesions scattered across its surface, with some of them being larger and more prominent. The leaf's edges appear to be smooth, and there are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00010.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several brown spots and lesions scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00109.jpg": {
+        "text": "The leaf is green with yellowish streaks or spots. The base color of the leaf is green, and the yellow streaks are distributed across the leaf, with some being more prominent than others. The leaf has a smooth texture, and there are no visible damages or tears. The veins are not distinctly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00137.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brown spots or discolorations on the leaf, with some being larger and more prominent than others. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth, and there are no visible damages or lesions on the leaf. The petiole is thin and green, and it appears to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00060.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. There are several small brown spots scattered across the leaf, especially towards the base. The petiole is thin and green, and it appears to be attached to the stem.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00031.jpg": {
+        "text": "The leaf is green with yellowish spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the petiole is green with a slight thickness.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00121.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple yellowish-brown spots or discolorations on the leaf, especially towards the edges. The leaf has a somewhat wavy texture, and there are no visible damages like holes or tears. The veins are visible and appear to be of a lighter color compared to the rest of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00096.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible veins on the visible portion of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00147.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are visible damages on the leaf, including a large tear-like injury on the upper left side and some smaller spots or lesions scattered across the leaf. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00161.jpg": {
+        "text": "The leaf is green with a few brown spots and discolorations. The base color of the leaf is green, and the spots are irregular in shape and size. The leaf has a somewhat wavy texture. The petiole is green and appears to be of medium thickness.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00005.jpg": {
+        "text": "The leaf is green with a few yellowish spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture with visible veins running through it. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00055.jpg": {
+        "text": "The leaf is green with a wavy or undulating margin. It has multiple brown spots scattered across its surface, with some spots being larger and more pronounced than others. The leaf has a smooth texture, and there are no visible damages like holes or tears. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00023.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are several yellowish spots or lesions on the leaf, with some of them being larger and more prominent than others. The leaf has a somewhat ovate shape, and the edges appear to be smooth. There are no visible damages like holes or tears on the leaf. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00084.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible veins. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00020.jpg": {
+        "text": "The leaf is green with a base color. There are yellowish-brown spots or discolorations on the leaf, particularly along the edges and midrib. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are of a lighter green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00166.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several brown spots scattered across the leaf, with some larger and more prominent than others. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00122.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. There are several spots or discolored areas on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth. There are no visible damages like holes, tears, or wilting. The veins on the leaf are visible and appear to be of a lighter color, possibly white or light green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00120.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots or discolorations. The spots are elongated and appear to be distributed along the edges of the leaf. The leaf has a smooth texture, and the edges are serrated. There are no visible damages, and the veins are prominent, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00027.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages like holes or tears on the leaf. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00028.jpg": {
+        "text": "The leaf is green with a central vein running down its center. There are several brown spots scattered across the leaf, with some appearing larger and more concentrated towards the base. The edges of the leaf are smooth, and there are no visible damages or tears. The petiole is thin and green, and it appears to be attached to the base of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00075.jpg": {
+        "text": "The leaf is green with a smooth texture. There are two visible spots on the leaf, one larger and more prominent on the upper left side and a smaller one on the upper right. The leaf has a heart-shaped base. The edges of the leaf appear to be smooth. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00024.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several brown spots and lesions scattered across the leaf, particularly towards the edges. The veins are visible and appear to be of a lighter color compared to the rest of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00038.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has several brown spots scattered across its surface, with some spots being larger and more pronounced than others. The leaf has a somewhat elongated shape, and the edges appear to be smooth. There are no visible damages like holes or tears on the leaf. The petiole is thin and green, and it appears to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00077.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several yellowish spots or discolorations on the leaf, particularly towards the middle and edges. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00003.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brown spots or lesions scattered across the leaf, with some being larger and more pronounced than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it seems to be attached to the stem.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00088.jpg": {
+        "text": "The leaf is green with a prominent necrotic streak running down its center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible veins on the leaf, and the petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00115.jpg": {
+        "text": "The leaf is green with a central brownish-yellow area that appears to be a lesion or spot. The leaf has a smooth texture, and the edges are serrated. There are no visible damages, and the veins are green. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00073.jpg": {
+        "text": "The leaf is green with a prominent brownish-gray spot in the center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00134.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running through it. There are no visible damages, holes, or tears on the leaf. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00090.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several spots on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be slightly serrated. There are no visible damages like holes or tears, and the veins are of a lighter color, possibly white or light green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00089.jpg": {
+        "text": "The leaf appears to be a type of corn, characterized by its green base color. There are spots on the leaf, which are brown in color and appear to be the result of the 'Goss's wilt' disease. The leaf has a somewhat oval shape, and the texture appears to be smooth. The edges of the leaf are smooth, and there are no visible damages or tears. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00040.jpg": {
+        "text": "The leaf is green with a smooth texture. It has several brown spots or lesions, particularly on the upper part of the leaf. The leaf has a heart-shaped base and a serrated edge. The veins are visible and are of a lighter green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00174.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. There are visible spots or discolorations on the leaf, particularly towards the middle and edges. The leaf has a somewhat elongated shape, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00157.jpg": {
+        "text": "The leaf is green with a few brown spots and discolorations. The base color of the leaf is green, and the spots are scattered across the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it seems to be attached to the stem.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00110.jpg": {
+        "text": "The leaf is green with a yellowish-brown discoloration, especially towards the edges. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00051.jpg": {
+        "text": "The leaf is green with a prominent yellowish-brown streak running down its center. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00035.jpg": {
+        "text": "The leaf is predominantly green with some brownish spots scattered across its surface. The spots are irregular in shape and vary in size, with some being larger and more prominent than others. The leaf appears to be somewhat wavy, and there are no visible damages like holes or tears. The petiole is thin and green, and it seems to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00069.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, which are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The edges of the leaf are smooth. There are no visible damages like holes, tears, or wilting. The veins on the leaf are visible and are of a lighter color compared to the rest of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00168.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are several brown spots or lesions visible on the leaf, particularly towards the middle and edges. The leaf has a somewhat elongated shape, and the veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00153.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a few spots or discolored areas, with one prominent spot located near the base of the leaf. The leaf has a heart-shaped shape, and the edges appear to be smooth. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00018.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several spots or discolored areas on the leaf, primarily towards the base. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00172.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has a few visible spots or discolored areas, particularly towards the base. The leaf has a serrated edge. There are no visible damages like holes or tears. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00139.jpg": {
+        "text": "The leaf is green with a yellowish-brown discoloration in certain areas. The leaf has a somewhat elongated shape with serrated edges. There are visible veins running through the leaf, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00072.jpg": {
+        "text": "The leaf is green in color with a base that appears slightly yellowish. There are several brownish spots or lesions on the leaf, particularly on the upper part. The leaf has a somewhat oval shape with serrated edges. The petiole is green and appears to be of medium thickness.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00030.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are brownish spots or discolorations on the leaf, particularly towards the edges and the base. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00136.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are no visible spots or discolored areas on the leaf. The leaf has a smooth texture with a slightly wavy edge. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00132.jpg": {
+        "text": "The leaf is green with a base color. There are several brownish spots or discolored areas on the leaf, particularly towards the edges. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00045.jpg": {
+        "text": "The leaf is green in color with a base color that transitions to a lighter shade towards the edges. There are several brown spots or lesions on the leaf, particularly towards the center and edges. The leaf has a somewhat wavy texture, and the edges appear to be slightly serrated. The petiole is thin and green, and it appears to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00062.jpg": {
+        "text": "The leaf is green with a prominent vein running down its center. There are several spots or discolored areas on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth. There are no visible damages like holes, tears, or wilting. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00106.jpg": {
+        "text": "The leaf is green in color with a somewhat elongated shape. There are visible spots or discolored areas on the leaf, particularly towards the edges. The leaf has a smooth texture, and there are no visible damages like holes or tears. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00101.jpg": {
+        "text": "The leaf is green with a few brown spots and discolored areas. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00009.jpg": {
+        "text": "The leaf is green with some areas showing yellowish discoloration. The edges of the leaf are serrated. The petiole is green and appears to be of medium thickness.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00049.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. There are multiple brown spots and lesions scattered across the leaf, especially towards the edges. The veins are visible and appear to be of a lighter color, possibly white or light green. The petiole is thin and green, and it seems to be attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00002.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several brown spots or lesions on the leaf, particularly on the upper and lower portions. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00164.jpg": {
+        "text": "The leaf is green with a prominent central vein. There are some brown spots or discolorations on the leaf, particularly towards the base. The leaf has a somewhat elongated shape, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00128.jpg": {
+        "text": "The leaf is green with yellowish spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a wavy texture, and the edges appear to be smooth. There are no visible damages on the leaf, and the petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00054.jpg": {
+        "text": "The leaf in the image is green with a base color that appears to be slightly lighter. There are several spots on the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and there are visible veins running through it. The edges of the leaf are smooth, and there are no visible damages or tears.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00001.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The edges of the leaf are smooth. There are no visible damages like holes or tears. The veins are visible and are of a lighter color compared to the rest of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00158.jpg": {
+        "text": "The leaf is green with yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The edges of the leaf are smooth. There are no visible damages, and the veins are green. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00118.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several yellowish spots scattered across the leaf, with some larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it is attached to the leaf blade at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00173.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00029.jpg": {
+        "text": "The leaf is predominantly green with some yellowish-brown spots and streaks. The leaf has a somewhat elongated shape, with a smooth texture. The edges of the leaf are serrated. There are no visible damages, and the veins are of a lighter color, possibly white or pale green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00170.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00176.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several brown spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00119.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are multiple spots or discolored areas on the leaf, which are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00019.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several spots or discolored areas on the leaf, primarily towards the middle and lower sections. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green, and it seems to be attached to the stem at a slight angle.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00074.jpg": {
+        "text": "The leaf is green with a prominent brownish-red spot in the center. The leaf has a smooth texture with a slightly wavy edge. There are no visible veins on the leaf, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00142.jpg": {
+        "text": "The leaf is green with a smooth texture. There are visible spots or discolored areas on the leaf, particularly towards the center and edges. The leaf has a heart-shaped base and serrated edges. There are no visible damages, and the veins are of a light green color.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00041.jpg": {
+        "text": "The leaf is green with a smooth texture. There are two visible spots on the leaf, one larger and more elongated, and the other smaller and more rounded. The edges of the leaf appear to be smooth. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00152.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00159.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several brownish spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The edges of the leaf are smooth, and there are no visible veins in the provided image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00150.jpg": {
+        "text": "The leaf is green with some brownish spots and discolorations. The base color of the leaf is green, and the spots are irregularly shaped, varying in size and color. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00091.jpg": {
+        "text": "The leaf appears to be green with a bacterial 'ooze' or discoloration on the upper surface. The leaf has a somewhat oval shape with serrated edges. The texture of the leaf seems smooth, and there are no visible damages or tears. The veins are not distinctly visible in the image.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00146.jpg": {
+        "text": "The leaf is green with a wavy or undulating margin. There are brownish spots or lesions on the leaf, particularly on the upper and lower portions. The leaf has a smooth texture, and the veins are visible, running from the base to the tip of the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00145.jpg": {
+        "text": "The leaf is green with some yellowish spots and discolorations. The base color of the leaf is green, and the spots are scattered across the leaf, with some being larger and more prominent than others. The leaf has a somewhat elongated shape, and the edges appear to be smooth. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00111.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several yellowish spots or discolorations on the leaf, with some of them being larger and more pronounced than others. The edges of the leaf appear to be smooth. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00056.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00143.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are numerous yellow spots scattered across the leaf, with some spots being larger and more concentrated, while others are smaller and more scattered. The leaf has a somewhat ovate shape with serrated edges. The petiole is thin and green, and there are no visible damages or lesions on the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00103.jpg": {
+        "text": "The leaf is green with yellowish streaks or spots. The base color of the leaf is green, and the yellow streaks are distributed across the leaf, with some spots being larger and more pronounced than others. The leaf has a smooth texture, and there are no visible damages or lesions. The veins are green and are distributed throughout the leaf.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00171.jpg": {
+        "text": "The leaf appears to be a greenish-yellow color with some brownish spots and streaks. The leaf has a somewhat elongated shape with serrated edges. There are visible veins running through the leaf, and the petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00148.jpg": {
+        "text": "The leaf is predominantly green with some red streaks. It has a somewhat elongated shape, with serrated edges. The leaf has a few visible spots, which are reddish-brown in color. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00057.jpg": {
+        "text": "The leaf is green with a visible vein structure. There are some brownish spots or discolorations on the leaf, particularly towards the base and edges. The leaf appears to be somewhat wavy or undulating. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00138.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several brown spots and streaks on the leaf, especially towards the base. The leaf has a somewhat elongated shape with serrated edges. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00044.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has several spots or discolored areas, which are brown in color. The leaf has a somewhat oval shape with a serrated edge. There are no visible damages like holes, tears, or wilting. The veins are visible and are of a lighter green color. The petiole appears to be thin and slightly curved.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00036.jpg": {
+        "text": "The leaf appears to be a greenish-yellow color with some brown spots and discolorations. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00014.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions on the leaf, particularly on the upper and lower portions. The leaf has a somewhat wavy texture, and the edges appear to be smooth. The petiole is thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00169.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several brownish spots or lesions scattered across the leaf, with some appearing larger and more prominent than others. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 8
+    },
+    "Corn_leaf_blight_00053.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly wavy. There are no visible damages, and the veins are prominent, running from the base to the tip of the leaf.",
+        "label": 8
+    }
+}

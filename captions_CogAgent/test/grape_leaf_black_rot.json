@@ -1,0 +1,34 @@
+{
+    "grape_leaf_black_rot_00004.jpg": {
+        "text": "The leaf is green with a serrated edge. It has several small, round spots or lesions scattered across its surface. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00002.jpg": {
+        "text": "The leaf is green with a slightly serrated edge. It has multiple spots or discolored areas, predominantly red in color, scattered across its surface. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00003.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across its surface. The leaf has a somewhat ovate shape with serrated edges. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00008.jpg": {
+        "text": "The leaf is green in color with a somewhat heart-shaped shape. There are several spots or discolored areas on the leaf, with some being larger and more prominent, while others are smaller and more scattered. The edges of the leaf are serrated. There are no visible damages like holes, tears, or wilting. The veins on the leaf are visible and appear to be of a lighter color, possibly white or light green.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00001.jpg": {
+        "text": "The leaf is green in color with a somewhat smooth texture. It has a heart-shaped shape. There are several spots or discolored areas on the leaf, with some being larger and more prominent than others. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00005.jpg": {
+        "text": "The leaf is green with a slightly serrated edge. It has multiple spots or discolored areas, which are of a reddish-brown color. The leaf has a somewhat ovate shape with a prominent central vein. The petiole is thin and green.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00006.jpg": {
+        "text": "The leaf is green with a few spots or discolored areas. The spots are reddish-brown in color and are scattered across the leaf. The leaf has a somewhat heart-shaped shape. The texture appears to be smooth, and there are no visible damages like holes or tears. The veins are not distinctly visible in the image.",
+        "label": 11
+    },
+    "grape_leaf_black_rot_00007.jpg": {
+        "text": "The leaf is green in color with a somewhat irregular shape. There are spots or discolored areas on the leaf, primarily on the upper right side. The edges of the leaf appear to be slightly serrated. The petiole is thin and green.",
+        "label": 11
+    }
+}

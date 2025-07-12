@@ -1,0 +1,46 @@
+{
+    "Tomato_Septoria_leaf_spot_00005.jpg": {
+        "text": "The leaf is green with a few spots or discolored areas. The spots are dark brown or black and are scattered across the leaf. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00011.jpg": {
+        "text": "The leaf is green with a yellowish tint near the base. There are multiple brown spots scattered across the leaf, with some larger and more concentrated in certain areas. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00001.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges appear to be slightly serrated. There are no visible damages, and the veins are thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00003.jpg": {
+        "text": "The leaf is predominantly green with yellowish spots scattered across its surface. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00010.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a somewhat smooth texture with a few veins visible. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00009.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00004.jpg": {
+        "text": "The leaf is predominantly green with yellow spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00008.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00002.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. It has multiple spots, some of which are larger and more prominent, while others are smaller and more scattered. The spots are brown with a slightly darker center. The leaf has a serrated edge. There are no visible damages like holes or tears. The veins are visible and are of a lighter color, possibly white or light green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00007.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a somewhat ovate shape with serrated edges. The petiole is thin and green.",
+        "label": 26
+    },
+    "Tomato_Septoria_leaf_spot_00006.jpg": {
+        "text": "The leaf is green with a few spots of yellow and brown. The spots are irregular in shape and are scattered across the leaf. The leaf has a somewhat wavy texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 26
+    }
+}

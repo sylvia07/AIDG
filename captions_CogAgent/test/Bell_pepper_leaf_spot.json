@@ -1,0 +1,38 @@
+{
+    "Bell_pepper_leaf_spot_00008.jpg": {
+        "text": "The leaf is green in color with a somewhat glossy texture. It has several spots and discolored areas, with some of them being larger and more prominent. The leaf has a somewhat ovate shape, and the edges appear to be smooth. There are no visible damages like holes, tears, or wilting. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00009.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has multiple spots on its surface, with some spots being larger and more prominent than others. The leaf has a somewhat oval shape with serrated edges. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00006.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly wavy edge. There are several spots on the leaf, with varying sizes and colors, including brown and yellow. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00002.jpg": {
+        "text": "The leaf is green in color with a somewhat oval shape. There are several spots or discolored areas on the leaf, which are brownish in color. The edges of the leaf appear to be smooth. There are no visible damages like holes, tears, or wilting. The veins on the leaf are visible and are of a lighter green color. The petiole of the leaf is thin and green.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00004.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible veins. The petiole is thin and green.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00003.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is slightly wavy. There are water-soaked lesions that are brown in color, forming on the underside of the leaves. The edges of the leaf are serrated. There are no visible damages on the leaf, and the veins are green. The petiole is thin and green.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped shape. There is a brownish spot on the leaf, which is located towards the center. The petiole is thin and green.",
+        "label": 4
+    },
+    "Bell_pepper_leaf_spot_00001.jpg": {
+        "text": "The leaf is green with a somewhat wilted appearance. It has several spots and discolored areas, particularly towards the edges and base. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough, and there are visible veins running through the leaf.",
+        "label": 4
+    }
+}

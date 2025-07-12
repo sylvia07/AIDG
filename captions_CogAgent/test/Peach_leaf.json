@@ -1,0 +1,38 @@
+{
+    "Peach_leaf_00003.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a pointed tip and is elongated, resembling an oval shape. The leaf has a few visible veins running through it, and there are no visible damages or spots on the surface. The petiole attached to the leaf is thin and green.",
+        "label": 12
+    },
+    "Peach_leaf_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a serrated edge and is somewhat oval in shape. There are no visible damages on the leaf, and it has a prominent vein running down its center.",
+        "label": 12
+    },
+    "Peach_leaf_00004.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a somewhat elongated shape, tapering towards the base. The edges of the leaf are smooth, and there are no visible damages or spots on it. The veins are visible, running parallel to the length of the leaf.",
+        "label": 12
+    },
+    "Peach_leaf_00002.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a pointed tip and is somewhat elongated. There are no visible damages, and the veins are not distinctly visible. The petiole appears to be thin and green.",
+        "label": 12
+    },
+    "Peach_leaf_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf, and it has a prominent vein running down its center. The petiole is thin and green in color.",
+        "label": 12
+    },
+    "Peach_leaf_00008.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a serrated edge and a heart-shaped base. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are visible and are of a lighter green color.",
+        "label": 12
+    },
+    "Peach_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has serrated edges and a somewhat ovate shape. There are no visible damages on the leaf, and it has a prominent vein running down its center. The petiole appears to be thin and yellowish in color.",
+        "label": 12
+    },
+    "Peach_leaf_00009.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a pointed tip. The leaf has a few visible veins running through it, and there are no visible damages or spots on the surface. The petiole is thin and green in color.",
+        "label": 12
+    },
+    "Peach_leaf_00006.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped shape with serrated edges. There are no visible damages on the leaf, and it has a prominent vein running down its center. The petiole is thin and green in color.",
+        "label": 12
+    }
+}

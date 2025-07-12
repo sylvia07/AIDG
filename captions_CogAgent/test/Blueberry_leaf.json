@@ -1,0 +1,46 @@
+{
+    "Blueberry_leaf_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The leaf has a few small spots or discolorations, primarily on the upper left side. The petiole is thin and green, and it appears to be attached to the stem at a slight angle.",
+        "label": 5
+    },
+    "Blueberry_leaf_00002.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the tip. There are several dark spots or discolorations on the leaf, primarily located towards the center and edges. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough, and there are no visible damages on the leaf. The petiole is pinkish-red and appears to be thin and smooth.",
+        "label": 5
+    },
+    "Blueberry_leaf_00003.jpg": {
+        "text": "The leaf in the image is green with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The leaf has a few small spots or discolored areas, primarily on the upper side. The veins are visible, running from the base to the tip of the leaf. The petiole is thin and green, matching the leaf's color.",
+        "label": 5
+    },
+    "Blueberry_leaf_00011.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 5
+    },
+    "Blueberry_leaf_00009.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The leaf has a prominent vein running from the base to the tip. There are no visible damages, holes, or tears on the leaf. The petiole is thin and green in color.",
+        "label": 5
+    },
+    "Blueberry_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 5
+    },
+    "Blueberry_leaf_00004.jpg": {
+        "text": "The leaf on the left is green with a smooth texture. It has a heart-shaped base and a serrated edge. There are no visible damages on the leaf. The veins are not distinctly visible, but the leaf appears to be healthy. The petiole is thin and green.",
+        "label": 5
+    },
+    "Blueberry_leaf_00010.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip. The petiole appears to be thin and green.",
+        "label": 5
+    },
+    "Blueberry_leaf_00006.jpg": {
+        "text": "The leaf is predominantly red with some brown spots and discolorations. It has a somewhat oval shape with serrated edges. The texture appears smooth, and there are no visible damages or tears on the leaf. The petiole is thin and appears to be of a similar color to the leaf.",
+        "label": 5
+    },
+    "Blueberry_leaf_00007.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a slightly serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole is thin and yellowish in color.",
+        "label": 5
+    },
+    "Blueberry_leaf_00008.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a serrated edge. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 5
+    }
+}

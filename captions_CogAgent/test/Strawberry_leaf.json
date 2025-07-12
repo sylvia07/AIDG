@@ -1,0 +1,34 @@
+{
+    "Strawberry_leaf_00002.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped shape with serrated edges. There are no visible damages on the leaf, and it has a prominent vein running through it. The petiole is thin and green in color.",
+        "label": 18
+    },
+    "Strawberry_leaf_00003.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. The petiole is thin and green. There are no visible damages, spots, or discolorations on the leaf. The veins are not distinctly visible in the image.",
+        "label": 18
+    },
+    "Strawberry_leaf_00006.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and is serrated along its edges. There are no visible damages, and the veins are thin and light-colored.",
+        "label": 18
+    },
+    "Strawberry_leaf_00004.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. There are no visible damages on the leaf, and it has a prominent vein running through it. The petiole appears to be thin and green.",
+        "label": 18
+    },
+    "Strawberry_leaf_00007.jpg": {
+        "text": "The leaf is green with a smooth texture. It has a heart-shaped base and is slightly serrated at the edges. There are no visible damages, and the veins are thin and light-colored.",
+        "label": 18
+    },
+    "Strawberry_leaf_00008.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. The petiole is thin and appears to be of a light color. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 18
+    },
+    "Strawberry_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and serrated edges. There are no visible damages on the leaf, and it has a prominent vein running through it. The petiole appears to be thin and green.",
+        "label": 18
+    },
+    "Strawberry_leaf_00005.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped shape with serrated edges. There are no visible damages on the leaf, and it has a prominent vein running from the base to the tip.",
+        "label": 18
+    }
+}

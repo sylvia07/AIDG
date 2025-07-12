@@ -1,0 +1,26 @@
+{
+    "Squash_Powdery_mildew_leaf_00006.jpg": {
+        "text": "The leaf is green with a few white spots or discolorations. The leaf has a serrated edge and a slightly wavy texture. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 17
+    },
+    "Squash_Powdery_mildew_leaf_00004.jpg": {
+        "text": "The leaf is green with a few white spots scattered across it. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 17
+    },
+    "Squash_Powdery_mildew_leaf_00003.jpg": {
+        "text": "The leaf is green in color with a somewhat glossy texture. It has a broad shape with serrated edges. There are white spots scattered across the leaf, especially on the upper surface. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 17
+    },
+    "Squash_Powdery_mildew_leaf_00005.jpg": {
+        "text": "The leaf is predominantly green with some white spots or discolorations. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 17
+    },
+    "Squash_Powdery_mildew_leaf_00002.jpg": {
+        "text": "The leaf is green with a few white spots scattered across its surface. The leaf has a somewhat oval shape with serrated edges. The texture appears to be slightly rough. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 17
+    },
+    "Squash_Powdery_mildew_leaf_00001.jpg": {
+        "text": "The leaf is predominantly green with white spots scattered across its surface. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy edge and appears to be slightly curled at the base. The petiole is thin and green, and there are no visible damages or lesions on the leaf.",
+        "label": 17
+    }
+}

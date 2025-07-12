@@ -1,0 +1,42 @@
+{
+    "Corn_rust_leaf_00006.jpg": {
+        "text": "The leaf appears to be green with some brown spots and discolorations. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and the edges are slightly serrated. There are no visible damages, and the veins are not distinctly visible.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00008.jpg": {
+        "text": "The leaf is green in color with a base that appears slightly yellowish. There are numerous small, brown spots scattered across the leaf, especially towards the edges. The leaf has a somewhat wavy texture, and there are no visible damages like holes or tears. The petiole is thin and green.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00005.jpg": {
+        "text": "The leaf is green with a yellowish-orange discoloration, especially on the edges and some spots. The leaf has a smooth texture, and there are no visible damages or lesions. The veins are not distinctly visible in the image.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00007.jpg": {
+        "text": "The leaf is green with a base color that transitions to a lighter shade towards the edges. There are several small, orange spots scattered across the leaf, with some larger clusters near the base. The leaf has a smooth texture, and there are no visible damages, veins, or petiole in the image.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00003.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. There are several yellowish spots scattered across the leaf, with some larger and more concentrated in certain areas. The edges of the leaf are smooth, and there are no visible damages or tears. The veins are not distinctly visible, but the leaf appears to be healthy.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00004.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are several spots or discolored areas on the leaf, which are yellowish in color. The leaf has a somewhat oval shape with serrated edges. There are no visible damages like holes, tears, or wilting. The veins on the leaf are thin and are of a lighter green color.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. There are several small, brownish spots scattered across the leaf, especially towards the edges. The veins are visible, running from the base to the tip of the leaf. The petiole appears to be thin and green.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00010.jpg": {
+        "text": "The leaf is green with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible damages or tears. The petiole is thin and green.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00002.jpg": {
+        "text": "The leaf is green in color with a few brown spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible veins on the visible portion. The petiole appears to be thin and green.",
+        "label": 9
+    },
+    "Corn_rust_leaf_00009.jpg": {
+        "text": "The leaf is green with a smooth texture. There are several spots and discolored areas on the leaf, primarily on the upper and lower surfaces. The edges of the leaf appear to be smooth. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 9
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "Tomato_leaf_bacterial_spot_00002.jpg": {
+        "text": "The leaf is green with a yellowish-brown spot near its base. The leaf has a somewhat wavy texture and is somewhat curled. There are no visible damages, and the petiole appears to be thin and green.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00006.jpg": {
+        "text": "The leaf is green with a yellowish-brown spot on its surface. The spot is irregular in shape and has a darker center. The leaf appears to be slightly wilted, and there are visible veins running through it. The petiole is thin and green.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00003.jpg": {
+        "text": "The leaf is green with a somewhat wavy texture. There are several dark spots or lesions on the leaf, with some being larger and more prominent than others. The edges of the leaf appear to be smooth. The petiole is thin and green, and there are no visible damages or tears on the leaf.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00007.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has multiple spots, some of which are larger and more prominent, while others are smaller and more scattered. The spots are brown with a yellowish hue in the center. The leaf has a serrated edge. There are no visible damages, and the veins are thin and green.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00008.jpg": {
+        "text": "The leaf is green with a few spots and discolorations. The spots are yellowish-brown and are scattered across the leaf. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00005.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has several spots or discolored areas, primarily on the upper side. The edges of the leaf are serrated. There are no visible damages, and the veins are prominent, running from the base to the tip of the leaf.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00009.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has multiple brown spots scattered across its surface, with some spots being larger and more prominent than others. The edges of the leaf are slightly serrated. There are no visible damages like holes or tears. The veins on the leaf are thin and are of a lighter green color.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00001.jpg": {
+        "text": "The leaf appears to be green with some brown spots. The spots are irregular in shape and vary in size. The leaf has a smooth texture, and there are no visible veins. The petiole is thin and green.",
+        "label": 21
+    },
+    "Tomato_leaf_bacterial_spot_00004.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has a serrated edge and shows signs of damage, including spots and discolorations. The veins are visible and appear to be of a lighter color, possibly white or light green.",
+        "label": 21
+    }
+}

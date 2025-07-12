@@ -1,0 +1,18 @@
+{
+    "Corn_Gray_leaf_spot_00003.jpg": {
+        "text": "The leaf is green with a base color. There are multiple spots or discolored areas on the leaf, which are of an orange-brown color. The leaf has a somewhat oval shape with serrated edges. There are no visible damages on the leaf, and the veins are of a lighter green color.",
+        "label": 7
+    },
+    "Corn_Gray_leaf_spot_00004.jpg": {
+        "text": "The leaf is green with yellowish spots scattered across it. The spots are irregular in shape and vary in size. The leaf has a smooth texture with visible veins running through it. The petiole is thin and green.",
+        "label": 7
+    },
+    "Corn_Gray_leaf_spot_00002.jpg": {
+        "text": "The leaf is green with a central brownish-yellow area that appears to be a lesion or spot. The leaf has a smooth texture, and there are no visible veins. The petiole is thin and green.",
+        "label": 7
+    },
+    "Corn_Gray_leaf_spot_00001.jpg": {
+        "text": "The leaf is green in color with a smooth texture. It has a heart-shaped base and a central vein running through it. There are no visible damages, and the edges appear smooth. The petiole is thin and green.",
+        "label": 7
+    }
+}

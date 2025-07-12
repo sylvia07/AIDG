@@ -1,0 +1,26 @@
+{
+    "Tomato_mold_leaf_00006.jpg": {
+        "text": "The leaf is predominantly green with some yellowish spots. The spots are irregular in shape and vary in size. The leaf has a somewhat wavy texture. The edges of the leaf are serrated. There are no visible damages, and the veins are thin and green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00003.jpg": {
+        "text": "The leaf is green with a somewhat smooth texture. It has a heart-shaped base and a somewhat wavy margin. There are no visible damages on the leaf, and the veins are not distinctly visible.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00002.jpg": {
+        "text": "The leaf is green with a few yellowish spots. The spots are irregular in shape and are scattered across the leaf. The leaf has a somewhat ovate shape with serrated edges. The petiole is thin and green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00005.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00001.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has several spots or discolored areas, primarily on the upper side. The spots are irregular in shape and vary in size. The leaf has a serrated edge. There are no visible damages like holes, tears, or wilting. The veins are visible and appear to be of a lighter color, possibly white or light green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00004.jpg": {
+        "text": "The leaf is green with a few brown spots or discolorations. The base color of the leaf is green, and the spots are irregular in shape and size. The leaf has a somewhat oval shape. The texture appears to be smooth, and there are no visible damages on the leaf. The petiole is thin and green.",
+        "label": 25
+    }
+}

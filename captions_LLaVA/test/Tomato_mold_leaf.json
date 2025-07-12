@@ -1,0 +1,26 @@
+{
+    "Tomato_mold_leaf_00001.jpg": {
+        "text": "The image shows a single leaf with a green base color. There are several spots on the leaf, which appear to be brown and yellow in color. These spots are irregular in shape and size, with some larger spots that are more prominent than the smaller ones. The leaf has a smooth surface with no visible hairs or other textures. The edges of the leaf are smooth and straight. There are no visible damages, such as holes, tears, or wilting. The veins on the leaf are thin and green, and they are distributed throughout the leaf. The petiole of the leaf is thin and green, with a smooth texture.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00006.jpg": {
+        "text": "Step 1: The leaf is green with yellow spots and discolored areas. The spots are irregularly shaped, with some appearing as small circles and others as larger irregular shapes. The discolored areas are yellow and brown, and they are scattered throughout the leaf.\n\nStep 2: The leaf is heart-shaped.\n\nStep 3: The surface of the leaf is smooth.\n\nStep 4: The edges of the leaf are serrated.\n\nStep 5: There are no visible damages on the leaf, such as holes, tears, wilting, or lesions.\n\nStep 6: The veins on the leaf are thin and green.\n\nStep 7: The petiole of the leaf is thin and green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00002.jpg": {
+        "text": "Step 1: The leaf is green with yellow spots and discolored areas. The spots are irregularly shaped, with some located near the base of the leaf and others towards the edges. The discolored areas are more concentrated towards the edges of the leaf.\n\nStep 2: The leaf is heart-shaped with a slightly pointed tip.\n\nStep 3: The surface of the leaf is smooth.\n\nStep 4: The edges of the leaf are smooth.\n\nStep 5: There are no visible damages on the leaf.\n\nStep 6: The veins on the leaf are thin and green.\n\nStep 7: The petiole of the leaf is thin and green.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00004.jpg": {
+        "text": "Step 1: The leaf is green with a few brown spots scattered across its surface. The spots are irregular in shape and size, with some appearing larger and more pronounced than others.\n\nStep 2: The leaf is heart-shaped with a slightly pointed tip.\n\nStep 3: The surface of the leaf is smooth with a slightly rough texture near the base.\n\nStep 4: The edges of the leaf are smooth and slightly curved.\n\nStep 5: There are no visible damages on the leaf, such as holes, tears, wilting, or lesions.\n\nStep 6: The veins on the leaf are thin and green, running parallel to each other and branching off from the base of the leaf.\n\nStep 7: The petiole of the leaf is thin and green, with a slightly rough texture.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00003.jpg": {
+        "text": "Step1: The leaf is green with a few small, dark spots scattered across its surface. The spots are irregular in shape and vary in size, with some being larger and more prominent than others.\n\nStep2: The leaf is heart-shaped with a slightly pointed tip.\n\nStep3: The surface of the leaf is smooth with a glossy appearance.\n\nStep4: The edges of the leaf are smooth and straight.\n\nStep5: There are no visible damages on the leaf, such as holes, tears, wilting, or lesions.\n\nStep6: The veins on the leaf are thin and green, running parallel to each other and branching off from the base of the leaf.\n\nStep7: The petiole of the leaf is thin and green, matching the color of the leaf itself. The texture of the petiole is smooth.",
+        "label": 25
+    },
+    "Tomato_mold_leaf_00005.jpg": {
+        "text": "Step 1: The leaf is green with brown spots scattered across its surface. The spots are irregular in shape and size, with some larger spots that are more prominent.\n\nStep 2: The leaf is heart-shaped with a slightly pointed tip.\n\nStep 3: The surface of the leaf is smooth.\n\nStep 4: The edges of the leaf are smooth and straight.\n\nStep 5: There are no visible damages on the leaf, such as holes, tears, wilting, or lesions.\n\nStep 6: The veins on the leaf are thin and green.\n\nStep 7: The petiole of the leaf is thin and green, with a slightly rough texture.",
+        "label": 25
+    }
+}

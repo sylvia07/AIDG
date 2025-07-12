@@ -1,0 +1,42 @@
+{
+    "Tomato_leaf_late_blight_00003.jpg": {
+        "text": "The leaf is green with a slightly wilted appearance. It has a serrated edge and a few small spots or discolorations on its surface. The veins are visible and appear to be of a lighter color. The petiole is thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00001.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The petiole is thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00007.jpg": {
+        "text": "The leaf is green with a few spots and discolorations. The spots are irregular in shape and vary in size, with some being larger and more prominent than others. The leaf has a somewhat wavy texture, and there are no visible damages like holes or tears. The petiole is thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00009.jpg": {
+        "text": "The leaf is green in color with a somewhat wavy texture. It has a few spots or discolored areas, primarily on the upper right side. The leaf has a somewhat ovate shape with serrated edges. There are no visible damages on the leaf, and the petiole appears to be thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00002.jpg": {
+        "text": "The leaf is green with a few spots or discolored areas. The spots are of varying sizes and are located on the upper part of the leaf. The leaf has a somewhat wavy texture, and there are visible veins running through it. The petiole appears to be thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00005.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has a few spots or discolored areas, with one prominent spot near the base. The leaf has serrated edges and a smooth texture. The petiole is thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00004.jpg": {
+        "text": "The leaf is green with a few brown spots. The spots are irregular in shape and are located on the upper part of the leaf. The leaf has a somewhat wavy texture, and there are no visible veins on the visible portion of the leaf.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00006.jpg": {
+        "text": "The leaf is green with a slightly wavy texture. It has a heart-shaped base and a serrated edge. There are no visible damages, and the veins are thin and green. The petiole appears to be thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00010.jpg": {
+        "text": "The leaf is green with a few spots or discolored areas. The spots are irregular in shape and vary in size. The leaf has a somewhat oval shape with serrated edges. The texture appears to be smooth. The petiole is thin and green.",
+        "label": 22
+    },
+    "Tomato_leaf_late_blight_00008.jpg": {
+        "text": "The leaf is green with a slightly wilted appearance. It has a serrated edge and a few small spots or discolorations on its surface. The veins are visible, running from the base to the tip of the leaf.",
+        "label": 22
+    }
+}
